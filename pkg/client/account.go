@@ -6,11 +6,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/account"
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/waynewu0411/gotron-sdk/pkg/account"
+	"github.com/waynewu0411/gotron-sdk/pkg/address"
+	"github.com/waynewu0411/gotron-sdk/pkg/common"
+	"github.com/waynewu0411/gotron-sdk/pkg/proto/api"
+	"github.com/waynewu0411/gotron-sdk/pkg/proto/core"
 	"google.golang.org/protobuf/proto"
 )
 
